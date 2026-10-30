@@ -1,8 +1,8 @@
 # Hi, I'm Tasneem
 
-Software engineer building real-time Linux device software, backend APIs and iOS apps in **Python, Java and Swift**.
+Software engineer with hands-on experience in **Python, Java and Swift** across backend, iOS and real-time Linux work.
 
-- Software Engineer (part-time) at **HUSH Hear**: Python modules for a Linux-based device pipeline and a device simulator for the mobile team
+- Software Engineer (part-time) at **HUSH Hear**: core Python modules for a real-time Linux audio device, with 136 unit tests
 - B.Sc. in Computer Science and Mathematics (started university at 14)
 - AWS Certified Cloud Practitioner
 - Looking for a junior software engineering role
